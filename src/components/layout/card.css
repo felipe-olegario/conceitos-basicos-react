@@ -1,0 +1,21 @@
+
+.card {
+    border-radius: 10px;
+    border: 2px solid;
+    overflow: hidden;
+    margin: 10px;
+    min-width: 300px;
+}
+
+.card .title {
+    font-size: 30px;
+    color: honeydew;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.card .content {
+    background: white;
+    padding: 10px;
+}
